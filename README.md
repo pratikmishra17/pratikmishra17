@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on cool data science and machine learning projects
+- 🌱 I’m currently learning machine learning and deep learning
+- 📫 How to reach me: pratikmishra2807@gmail.com
+
 <!--
 **pratikmishra17/pratikmishra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
