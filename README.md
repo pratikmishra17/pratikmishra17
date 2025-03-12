@@ -7,6 +7,9 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java,python,pytorch,ts,js,angular,spring,bash,tailwind,eclipse,git,github,linux,maven,postman,postgres,html,vscode,css,)](https://skillicons.dev)
 
+ ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikmishra17&show_icons=true&theme=radical)
+  
+
 <!--
 **pratikmishra17/pratikmishra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
