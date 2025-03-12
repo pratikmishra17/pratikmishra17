@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning machine learning and deep learning
 - 📫 How to reach me: pratikmishra2807@gmail.com
 
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **pratikmishra17/pratikmishra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
