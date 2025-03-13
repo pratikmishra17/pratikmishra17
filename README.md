@@ -1,8 +1,8 @@
 ## Hi there, I am Pratik.
-
+- 🎓 Master of Science in Software Engineering at Cleveland State University
 - 🔭 I’m currently working on cool data science and machine learning projects
 - 🌱 I’m currently learning machine learning and deep learning
-- 📫 How to reach me: pratikmishra2807@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-mishraa)
