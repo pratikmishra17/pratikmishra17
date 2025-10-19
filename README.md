@@ -1,6 +1,6 @@
 ## Hi there, I am Pratik.
 - 🎓 Master of Science in Software Engineering at Cleveland State University
-- 🔭 I’m currently working on cool data science and machine learning projects
+- 🔭 I’m currently working on cool software engineering projects
 - 🌱 I’m currently learning machine learning and deep learning
 
 
